@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KortList", "KortList\KortList.csproj", "{C7458DCF-D5E2-48FE-898E-0C823003380C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KortListLibrary", "KortListLibrary\KortListLibrary.csproj", "{9E3E2928-5BC5-48BB-8810-32D908F56774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7458DCF-D5E2-48FE-898E-0C823003380C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7458DCF-D5E2-48FE-898E-0C823003380C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7458DCF-D5E2-48FE-898E-0C823003380C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7458DCF-D5E2-48FE-898E-0C823003380C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3E2928-5BC5-48BB-8810-32D908F56774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3E2928-5BC5-48BB-8810-32D908F56774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3E2928-5BC5-48BB-8810-32D908F56774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3E2928-5BC5-48BB-8810-32D908F56774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72EEBA0-4070-4091-9064-A7DDA8BF8124}
+	EndGlobalSection
+EndGlobal
